@@ -1,2 +1,2 @@
 # college-practicals
-college practicals for BSCIT course
+Hi. Just testing. You can test contributing here to by making a PR.
