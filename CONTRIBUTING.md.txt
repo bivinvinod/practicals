@@ -1,3 +1,5 @@
+First open github 
+open this issue
 #CONTRIBUTING.md
 Steps to contribute in project:
 -Fork the project
